@@ -58,10 +58,10 @@ export default function Bio() {
       <div className="content-area background">
         <br />
         <Row className="justify-content-center">
-          <Image className="image" src={Shot1} />
+          <Image className="image w-50" src={Shot1} />
         </Row>
         <br />
-        <Row className="justify-content-center align-items-center h4 ml-5 mr-5">
+        <Row className="justify-content-center align-items-center h6 ml-5 mr-5">
           <div className="lineStyle">
             A native of Temple Hills, Maryland, Bass-Baritone, LaRob K. Payton developed a love for singing at an early age. He
             found a spirit in the Gospel songs he sang, passion in the R&B he heard, and nuance in the Classical music he studied.
@@ -73,7 +73,7 @@ export default function Bio() {
             <br />
             <br />
             <Row className="justify-content-center">
-              <Image className="image" src={Shot2} />
+              <Image className="image w-50" src={Shot2} />
             </Row>
             <br />
             As an Arts Administrative Specialist, he concurrently works at Lyric Opera of Chicago in the Learning and Creative

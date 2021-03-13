@@ -5,7 +5,7 @@ import Shot3 from "../Assets/shot3.jpg";
 
 export default function Body() {
   return (
-    <>
+
       <div className="content-area background">
         <br />
         <Row className="justify-content-center align-items-center h4 ml-5 mr-5">
@@ -17,10 +17,12 @@ export default function Body() {
           <br/>
         </Row>
         <Row className="justify-content-center">
-          <Image className="imageOption" src={Shot3} />
+          <Image className="imageOption w-50" src={Shot3} />
         </Row>
+        <br/>
+        <br/>
+        <br/>
+        <div className=" background"></div>
       </div>
-      
-    </>
   );
 }
