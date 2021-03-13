@@ -19,7 +19,7 @@ export default function Bio() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse title="Social" id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#/">Home</Nav.Link>
             <Nav.Link className="staticLink" href="#bio">
               Bio
             </Nav.Link>

@@ -11,7 +11,7 @@ export default function FooterInfo() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="#home">
+            <Nav.Link href="#/">
               Home
             </Nav.Link>
           </Nav>
