@@ -1,38 +1,61 @@
-.App {
-  text-align: center;
+.background {
+  height: 100%;
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.textColor {
+  color: white !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.textColorBlack {
+  color: black !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.dropdown {
+  color: white !important;
+}
+
+.staticLink {
+  color: white !important;
+  text-decoration: underline !important;
+}
+
+.content-area {
+  min-height: 280px;
+  background-color: black !important;
+  color: white !important;
+}
+
+.content-area2 {
+  min-height: 280px;
+  background-color: black !important;
+  color: white !important;
+}
+
+.lineStyle{
+ line-height: 2rem;
+}
+
+.image{
+  box-shadow: 12px 12px 2px 1px rgba(117, 117, 131, 0.2);
+  width:50%
+}
+
+.imageOption{
+  box-shadow: 12px 12px 2px 1px rgba(117, 117, 131, 0.2);
+    width:60%
+}
+
+.cardSpecs{
+  margin-left: 25%;
+  justify-content: center;
+  width: 50%;
+}
+
+.spotify{
+  background-color: black !important;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  margin-left: 25%;
+  margin-right: 25%;
 }
