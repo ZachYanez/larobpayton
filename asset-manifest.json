@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/larobpayton/static/css/main.822130b9.chunk.css",
+    "main.js": "/larobpayton/static/js/main.0e86ae91.chunk.js",
+    "main.js.map": "/larobpayton/static/js/main.0e86ae91.chunk.js.map",
+    "runtime-main.js": "/larobpayton/static/js/runtime-main.86ce3689.js",
+    "runtime-main.js.map": "/larobpayton/static/js/runtime-main.86ce3689.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/larobpayton/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3228a70b.chunk.js": "/larobpayton/static/js/2.3228a70b.chunk.js",
+    "static/js/2.3228a70b.chunk.js.map": "/larobpayton/static/js/2.3228a70b.chunk.js.map",
+    "static/js/3.a5b74c03.chunk.js": "/larobpayton/static/js/3.a5b74c03.chunk.js",
+    "static/js/3.a5b74c03.chunk.js.map": "/larobpayton/static/js/3.a5b74c03.chunk.js.map",
+    "index.html": "/larobpayton/index.html",
+    "service-worker.js": "/larobpayton/service-worker.js",
+    "service-worker.js.map": "/larobpayton/service-worker.js.map",
+    "static/css/2.4c97ca4f.chunk.css.map": "/larobpayton/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.822130b9.chunk.css.map": "/larobpayton/static/css/main.822130b9.chunk.css.map",
+    "static/js/2.3228a70b.chunk.js.LICENSE.txt": "/larobpayton/static/js/2.3228a70b.chunk.js.LICENSE.txt",
+    "static/media/gospel.9d3e8117.jpg": "/larobpayton/static/media/gospel.9d3e8117.jpg",
+    "static/media/gospel2.16f0a066.jpg": "/larobpayton/static/media/gospel2.16f0a066.jpg",
+    "static/media/shot1.6218081a.jpg": "/larobpayton/static/media/shot1.6218081a.jpg",
+    "static/media/shot2.1e06fa69.jpg": "/larobpayton/static/media/shot2.1e06fa69.jpg",
+    "static/media/shot3.2da415be.jpg": "/larobpayton/static/media/shot3.2da415be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86ce3689.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3228a70b.chunk.js",
+    "static/css/main.822130b9.chunk.css",
+    "static/js/main.0e86ae91.chunk.js"
+  ]
+}
