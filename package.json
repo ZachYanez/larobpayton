@@ -5,7 +5,7 @@
   "homepage": "http://zachyanez.github.io/larobpayton/#/home",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZachYanez/abyonausar/"
+    "url": "https://github.com/ZachYanez/larobpayton/"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
